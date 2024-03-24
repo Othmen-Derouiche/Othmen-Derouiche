@@ -10,3 +10,9 @@
 Othmen-Derouiche/Othmen-Derouiche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 🛠 Tech Stack
+Python | JavaScript | Java | C | C++ | R (Statistics)  
+React | Node.js | Django | Flask | Bootstrap  
+HTML | CSS | Git | GitHub | Markdown  
+Visual Studio Code | RStudio | Eclipse  
+Illustrator | Photoshop | InDesign  
